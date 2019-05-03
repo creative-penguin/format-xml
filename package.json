@@ -1,0 +1,18 @@
+{
+  "name": "@creativepenguin/format-xml",
+  "version": "0.1.0",
+  "description": "CLI tool to pretty print xml",
+  "main": "index.js",
+  "bin": {
+    "format-xml": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jim Jenkins <jimjenkins5@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xml-formatter": "1.1.0",
+    "yargs": "13.2.2"
+  }
+}
